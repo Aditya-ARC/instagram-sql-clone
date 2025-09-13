@@ -48,5 +48,3 @@ instagram-sql-clone/
 └─ .gitignore
 ```
 
-## 📘 Credits
-Academic project (2025) – submitted as part of RDBMS coursework
